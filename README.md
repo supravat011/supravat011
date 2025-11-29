@@ -1,5 +1,5 @@
 # About Me: 
-*I'm a 20-year-old Software Engineer and a Web3 Enthusiast from India.*
+**I'm a 20-year-old Software Engineer and a Web3 Enthusiast from India.**
 
 ## Hobbies:
 - Building awesome apps and websites  
